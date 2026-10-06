@@ -1,0 +1,8 @@
+{
+  "name": "ID & PAN Card OCR Extractor",
+  "description": "NKN Bro! Boss-level OCR extractor for your PAN and ID cards, NAKKN full live spreadsheet view, one-click CSV export, and clean database integration zero lag, full scene clear, solid setup guru!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
